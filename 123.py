@@ -9,3 +9,6 @@ print ("已经映射了内网后")
 print(" 映射地址修改后")
 print("jinkens的地址和端口修改后")
 print("jinkens的地址和端口修改后2")
+print("jinkens的地址和端口修改后3")
+
+
