@@ -24,5 +24,6 @@ print("jinkens的地址和端口修改后14:25")
 print("jinkens的地址和端口修改后14:28")
 print("jinkens的地址和端口修改后14:36")
 print("jinkens的地址和端口修改后14:38")
+print("连通后测试报告是否生成成功？")
 
 
