@@ -37,7 +37,7 @@ THE SOFTWARE.
     The following value assumes that you have java in your PATH.
   -->
   <executable>D:\\bin\java.exe</executable>
-  <arguments>-Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle - Dhudson.security.csrf.GlobalCrumbIssuerConfiguration.DISABLE_CSRF_PROTECTION=true -jar "C:\Program Files\Jenkins\jenkins.war" --httpPort=8080 --webroot="%LocalAppData%\Jenkins\war"</arguments>
+  <arguments>-Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -Dhudson.security.csrf.GlobalCrumbIssuerConfiguration.DISABLE_CSRF_PROTECTION=true -jar "C:\Program Files\Jenkins\jenkins.war" --httpPort=8080 --webroot="%LocalAppData%\Jenkins\war"</arguments>
   <!--
     interactive flag causes the empty black Java window to be displayed.
     I'm still debugging this.
